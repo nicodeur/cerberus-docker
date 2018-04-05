@@ -1,19 +1,6 @@
 # Cerberus Docker files
 
-[Cerberus](http://www.cerberus-testing.org/) is an user-friendly automated testing framework.
-
-This project gather all Cerberus [Docker](https://www.docker.com/) related files.
-
-## Get started
-
-Assume you already have [Docker](https://docs.docker.com)  and [Docker compose](https://docs.docker.com/compose) installed in your machine, then the most easiest way to use Cerberus Docker files is to deal with [Cerberus Docker compositions](./compositions).
-
-## Go deeper
-
-You can go deeper into the documentation by looking at
- - [Cerberus Docker compositions](https://github.com/cerberustesting/cerberus-docker/tree/master/compositions)
- - [Cerberus Docker images](https://github.com/cerberustesting/cerberus-docker/tree/master/images)
-
+Cerberus docker was migrated to https://github.com/cerberustesting/cerberus-source/tree/master/docker/
 
 ## License
 
